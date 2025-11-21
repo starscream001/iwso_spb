@@ -32,6 +32,7 @@ Demo images
 Unsplash by Crew - http://unsplash.com/
 
 Fonts
+and
 ------------------------------------------------------
 Font Awesome by Dave Gandy - http://fortawesome.github.io/Font-Awesome/
 Google Fonts - http://www.google.com/fonts
